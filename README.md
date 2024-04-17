@@ -5,7 +5,7 @@ For details see [this blog post](https://allanchain.github.io/blog/post/sans-mat
 ## Results
 
 <p align="center">
-<img alt="sansmath in light theme" src="https://github.com/AllanChain/blog/assets/36528777/aa962540-5d03-40a5-b7f3-a8d9ee54f95f" >
+<img alt="sansmath in light theme" src="sansmath.svg" >
 </p>
 
 - [**sansmath**](https://ctan.org/pkg/sansmath): Lowercase Greeks are not in sans-serif, and uppercase Greeks are in ugly slanted style.
